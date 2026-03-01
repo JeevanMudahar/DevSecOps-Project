@@ -1,4 +1,4 @@
-# DevSecOps-Project
+# DevSecOps-Project.
 
 # DevSecOps Projects Overview.
 
